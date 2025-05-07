@@ -1,4 +1,4 @@
-# 🔫 Weapon Detection App 🎯 | YOLOv8 + Streamlit
+#  Weapon Detection App 🎯 | YOLOv8 + Streamlit
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat-square&logo=python)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-green?style=flat-square&logo=github)
